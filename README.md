@@ -20,8 +20,9 @@ To build this project, you will need to assemble the PCB and upload the firmware
 
 ## PCB && Schematics 
 
-<img width="652" height="515" alt="Screenshot From 2026-05-13 08-49-14" src="https://github.com/user-attachments/assets/2cd0c8e6-76eb-4342-99e6-a7c42d85dea1" />
-<img width="999" height="714" alt="PCB render" src="https://github.com/user-attachments/assets/28caffb1-08ab-4ef3-8994-796d9d6bc52c" />
+<img width="519" height="351" alt="Schematic Render " src="https://github.com/user-attachments/assets/109f5f1a-3a9a-4961-bff9-11b3de21419a" />
+<img width="425" height="304" alt="PCB Render" src="https://github.com/user-attachments/assets/52b70012-e3f7-463b-ac25-2f7179e70f46" />
+
 
 
 ## 3D Model of housing 
