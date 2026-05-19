@@ -4,7 +4,8 @@ A Weather Monitoring system that is actually housed in a house lol ! The Name Gi
 it has various sensors the returns predictions and values to your phone via a html website it can estimate rain propability to everything it can acc to your creativity :X 
 ## Full render
 
-<img width="3464" height="2135" alt="Picsart_26-05-19_11-39-04-554" src="https://github.com/user-attachments/assets/59a19f44-f074-49c9-b780-17e2ac3669d5" />
+<img width="1161" height="554" alt="image" src="https://github.com/user-attachments/assets/ad7bc3af-36ab-49dc-9b10-456442f2b6e5" />
+
 
 ## About
 
