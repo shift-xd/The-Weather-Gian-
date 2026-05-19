@@ -28,9 +28,6 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 <img width="519" height="351" alt="Schematic Render " src="https://github.com/user-attachments/assets/109f5f1a-3a9a-4961-bff9-11b3de21419a" />
 <img width="425" height="304" alt="PCB Render" src="https://github.com/user-attachments/assets/52b70012-e3f7-463b-ac25-2f7179e70f46" />
 
-### About Printing the Casing :) 
-Read the image below :) 
-<img width="934" height="429" alt="image" src="https://github.com/user-attachments/assets/218cba19-132d-4d13-bfb5-343b4c2f659b" />
 
 ## 3D Model of housing 
 <img width="791" height="429" alt="image" src="https://github.com/user-attachments/assets/b2776a89-bec3-47ba-8a85-c26685cdf08d" />
