@@ -32,6 +32,7 @@ Read the image below :)
 <img width="934" height="429" alt="image" src="https://github.com/user-attachments/assets/218cba19-132d-4d13-bfb5-343b4c2f659b" />
 
 ## 3D Model of housing 
-<img width="934" height="429" alt="Picsart_26-05-19_11-41-54-726" src="https://github.com/user-attachments/assets/c379d0f7-6ee0-4e24-a3c9-1aacd7f1ed5d" />
+<img width="791" height="429" alt="image" src="https://github.com/user-attachments/assets/b2776a89-bec3-47ba-8a85-c26685cdf08d" />
+
 
 
