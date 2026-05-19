@@ -1,6 +1,7 @@
 # The-weather-gian
 
-A Weather Monitoring system that is actually housed in a house lol ! 
+A Weather Monitoring system that is actually housed in a house lol ! The Name Gian is inspired from the cartoon DORAEMON THE CHARACTER GIAN is well known , i dont know why i used it but it sounded right lol :) 
+it has various sensors the returns predictions and values to your phone via a html website it can estimate rain propability to everything it can acc to your creativity :X 
 ## Full render
 
 <img width="3464" height="2135" alt="Picsart_26-05-19_11-39-04-554" src="https://github.com/user-attachments/assets/59a19f44-f074-49c9-b780-17e2ac3669d5" />
