@@ -28,6 +28,6 @@ To build this project, you will need to assemble the PCB and upload the firmware
 
 
 ## 3D Model of housing 
+<img width="3464" height="2287" alt="Picsart_26-05-19_11-41-54-726" src="https://github.com/user-attachments/assets/c379d0f7-6ee0-4e24-a3c9-1aacd7f1ed5d" />
 
-<img width="893" height="708" alt="Screenshot From 2026-05-13 08-18-54" src="https://github.com/user-attachments/assets/22676450-4ae6-43b4-9489-00436f24b505" />
 
