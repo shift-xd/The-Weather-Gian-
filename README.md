@@ -15,7 +15,7 @@ I made this project to contribute towards "MACONDO" program by HACKCLUB ! Appare
 To build this project, you will need to assemble the PCB and upload the firmware to the ESP32 microcontroller. You can then use the device to monitor the weather and track changes in temperature, humidity, and other environmental factors.
 
 ## Full render
-<img width="941" height="536" alt="Screenshot From 2026-05-13 08-34-40" src="https://github.com/user-attachments/assets/66f9dc24-10d0-4d0c-874a-e27824fe0148" />
+<img width="350" height="426" alt="IMG_20260519_112525" src="https://github.com/user-attachments/assets/77c1c104-194b-4fd1-9f82-3c5eccbf38a2" />
 
 
 ## PCB && Schematics 
