@@ -5,42 +5,44 @@ it has various sensors the returns predictions and values to your phone via a ht
 ## Full render
 
 <img width="1161" height="554" alt="image" src="https://github.com/user-attachments/assets/ad7bc3af-36ab-49dc-9b10-456442f2b6e5" />
-
-## Softwares Used 
-<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;">
+<div style="display:flex; flex-wrap:wrap; gap:18px; align-items:center;">
 
   <a href="https://easyeda.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/EasyEDA-1765F3?style=for-the-badge&logo=easyeda&logoColor=white" 
-         alt="EasyEDA"
-         style="border-radius:16px;">
+    <img 
+      src="https://img.shields.io/badge/EasyEDA-2563EB?style=for-the-badge&logo=easyeda&logoColor=white&labelColor=1E293B" 
+      alt="EasyEDA"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
   <a href="https://solvespace.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/SolveSpace-1E1E1E?style=for-the-badge&logo=autodesk&logoColor=white" 
-         alt="SolveSpace"
-         style="border-radius:16px;">
+    <img 
+      src="https://img.shields.io/badge/SolveSpace-475569?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=0F172A" 
+      alt="SolveSpace"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
   <a href="https://www.freecad.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/FreeCAD-005BAC?style=for-the-badge&logo=freecad&logoColor=white" 
-         alt="FreeCAD"
-         style="border-radius:16px;">
+    <img 
+      src="https://img.shields.io/badge/FreeCAD-0F766E?style=for-the-badge&logo=freecad&logoColor=white&labelColor=111827" 
+      alt="FreeCAD"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
   <a href="https://brave.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" 
-         alt="Brave"
-         style="border-radius:16px;">
+    <img 
+      src="https://img.shields.io/badge/Brave-EF4444?style=for-the-badge&logo=brave&logoColor=white&labelColor=1F2937" 
+      alt="Brave"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
   <a href="https://grabcad.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GrabCAD-00B388?style=for-the-badge&logo=grabcad&logoColor=white" 
-         alt="GrabCAD"
-         style="border-radius:16px;">
+    <img 
+      src="https://img.shields.io/badge/GrabCAD-14B8A6?style=for-the-badge&logo=grabcad&logoColor=white&labelColor=0B1120" 
+      alt="GrabCAD"
+      style="border-radius:999px; box-shadow:0 4px 12px rgba(0,0,0,0.18);">
   </a>
 
 </div>
-
 
 ## About
 
