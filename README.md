@@ -6,6 +6,29 @@ it has various sensors the returns predictions and values to your phone via a ht
 
 <img width="1161" height="554" alt="image" src="https://github.com/user-attachments/assets/ad7bc3af-36ab-49dc-9b10-456442f2b6e5" />
 
+# Softwares
+<div>
+  <a href="https://easyeda.com/" style="margin-right: 15px; display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/EasyEDA-1765F3?style=for-the-badge&logo=circuitboard&logoColor=white" style="border-radius: 30px;">
+  </a>
+
+  <a href="https://solvespace.com/" style="margin-right: 15px; display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/SolveSpace-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white" style="border-radius: 30px;">
+  </a>
+
+  <a href="https://www.freecad.org/" style="margin-right: 15px; display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/FreeCAD-729FCF?style=for-the-badge&logo=freecad&logoColor=white" style="border-radius: 30px;">
+  </a>
+
+  <a href="https://brave.com/" style="margin-right: 15px; display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/Brave-Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" style="border-radius: 30px;">
+  </a>
+
+  <a href="https://grabcad.com/" style="display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/GRABCAD-005BAC?style=for-the-badge&logo=autodesk&logoColor=white" style="border-radius: 30px;">
+  </a>
+</div>
+
 
 ## About
 
