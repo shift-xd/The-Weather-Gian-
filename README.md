@@ -1,8 +1,16 @@
-# The-weather-gian
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=64&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=120&lines=THE+WEATHER+GIAN" />
+
+</div>
 A Weather Monitoring system that is actually housed in a house lol ! The Name Gian is inspired from the cartoon DORAEMON THE CHARACTER GIAN is well known , i dont know why i used it but it sounded right lol :) 
 it has various sensors the returns predictions and values to your phone via a html website it can estimate rain propability to everything it can acc to your creativity :X 
-## Full render
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=FULL+RENDER" />
+
+</div>
 
 <img width="1161" height="554" alt="image" src="https://github.com/user-attachments/assets/ad7bc3af-36ab-49dc-9b10-456442f2b6e5" />
 <div style="display:flex; flex-wrap:wrap; gap:18px; align-items:center;">
@@ -44,7 +52,11 @@ it has various sensors the returns predictions and values to your phone via a ht
 
 </div>
 
-## About
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=350&height=70&lines=ABOUT" />
+
+</div>
 
 The Weather Gian is a weather monitoring system that uses various sensors to track temperature, humidity, and other environmental factors and then it is shared with you through its wifi html website interface.
 
@@ -56,18 +68,30 @@ I made this project to contribute towards "MACONDO" program by HACKCLUB ! Appare
 
 To build this project, you will need to assemble the PCB and upload the firmware to the ESP32 microcontroller. You can then use the device to monitor the weather and track changes in temperature, humidity, and other environmental factors.
 
-## Firmware (Either upload mine or create your own :) ) 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=FIRMWARE" />
+
+</div>
 There is a firmware.bin file in the firmware/software folder you can copy / download it and follow the instructions below :) 
 
 <img width="1147" height="348" alt="image" src="https://github.com/user-attachments/assets/9343c034-cf78-4265-bf68-af29fc7ca8ea" />
 
-## PCB && Schematics 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=PCB+%26%26+SCHEMATICS" />
+
+</div>
 
 <img width="519" height="351" alt="Schematic Render " src="https://github.com/user-attachments/assets/109f5f1a-3a9a-4961-bff9-11b3de21419a" />
 <img width="425" height="304" alt="PCB Render" src="https://github.com/user-attachments/assets/52b70012-e3f7-463b-ac25-2f7179e70f46" />
 
 
-## 3D Model of housing 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=34&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=3D+MODEL+OF+HOUSING" />
+
+</div>
 <img width="791" height="429" alt="image" src="https://github.com/user-attachments/assets/b2776a89-bec3-47ba-8a85-c26685cdf08d" />
 
 
