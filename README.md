@@ -1,3 +1,4 @@
+### Warnings this animations were copied from templates no part of this readmi was ai generated :) 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=64&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=120&lines=THE+WEATHER+GIAN" />
